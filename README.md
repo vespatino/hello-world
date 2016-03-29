@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+m first repository
+a bit about myself
